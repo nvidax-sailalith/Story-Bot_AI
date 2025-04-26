@@ -19,3 +19,6 @@ The application likely utilizes a text generation model (possibly an AI or rule-
 Potential Use Cases:
 
 Creative Writing Aid: Overcoming writer's block by generating story ideas or starting points. Entertainment: Creating unique and imaginative stories for personal enjoyment. Educational Tool: Teaching children about storytelling and fostering creativity. Content Generation: Generating short stories or narrative snippets for various purposes. Overall, this "Creative Text Generator" aims to provide a user-friendly and engaging platform for generating imaginative text content based on user-defined themes and genres.
+
+
+![image](https://github.com/user-attachments/assets/db87f7d8-f0d7-4885-bd4c-5f4752f1b16d)
